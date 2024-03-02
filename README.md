@@ -64,7 +64,7 @@ Your Password Manager Name takes security seriously. Here are some key security 
 
 * End-to-End Encryption: All passwords are encrypted on the client-side and decrypted only on your device.
 * Regular Security Audits: Periodic security audits are conducted to identify and address potential vulnerabilities.
-* Bug Bounty Program: We encourage responsible disclosure through our bug bounty program. Report security issues to yashermkhan@gmail.com.
+* Bug Bounty Program: We encourage responsible disclosure through our bug bounty program. Report security issues to contacttheappcorner@gmail.com.
 
 
 Read our Security Policy for more details.
