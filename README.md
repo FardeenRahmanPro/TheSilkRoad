@@ -60,7 +60,7 @@ For more detailed installation instructions and troubleshooting, refer to the Ge
 For detailed usage instructions and advanced features, refer to the User Guide.
 
 ## Security
-Your Password Manager Name takes security seriously. Here are some key security practices:
+The Silk Road Password Management App takes security seriously. Here are some key security practices:
 
 * End-to-End Encryption: All passwords are encrypted on the client-side and decrypted only on your device.
 * Regular Security Audits: Periodic security audits are conducted to identify and address potential vulnerabilities.
