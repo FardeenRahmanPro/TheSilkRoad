@@ -37,7 +37,7 @@ Follow these steps to get your password manager up and running:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/TheSilkRoad.git
+   git clone https://github.com/Yasher201/TheSilkRoad.git
 2. **Install the Dependencies:**
    ```bash
    cd TheSilkRoad
